@@ -1,0 +1,1 @@
+for %%1 in (q w e r t y) echo %%1
